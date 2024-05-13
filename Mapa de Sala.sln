@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapa de Sala", "Mapa de Sala\Mapa de Sala.csproj", "{2C5B84AB-36F9-41EA-9260-DB31CD4B9D72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C5B84AB-36F9-41EA-9260-DB31CD4B9D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5B84AB-36F9-41EA-9260-DB31CD4B9D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5B84AB-36F9-41EA-9260-DB31CD4B9D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5B84AB-36F9-41EA-9260-DB31CD4B9D72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {926B6D8E-F641-43DC-A354-AB2E17A1DB0F}
+	EndGlobalSection
+EndGlobal
